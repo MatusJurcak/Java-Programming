@@ -1,0 +1,4 @@
+banan:banana
+jablko:apple
+hruska:pear
+word:slovo

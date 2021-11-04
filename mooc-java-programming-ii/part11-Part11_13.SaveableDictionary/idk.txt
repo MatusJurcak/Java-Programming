@@ -1,0 +1,3 @@
+banana:banan
+pear:hruska
+apple:jablko
